@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<year_end_summary>
+    <customer_list>
+        <customer>
+            <customer_name>Land of Toys Inc.</customer_name>
+            <address>
+                <street_address>897 Long Airport Avenue</street_address>
+                <city>NYC</city>
+                <postal_code>10022</postal_code>
+                <country>USA</country>
+            </address>
+            <num_orders>1</num_orders>
+            <order_value>22292.0</order_value>
+        </customer>
+    </customer_list>
+    <product_list>
+        <product_set>
+            <product_line_name>Motorcycles</product_line_name>
+            <product>
+                <product_name>1969 Harley Davidson Ultimate Chopper</product_name>
+                <product_vendor>Min Lin Diecast</product_vendor>
+                <units_sold>30</units_sold>
+                <total_sales>2440.5</total_sales>
+            </product>
+            <product>
+                <product_name>1996 Moto Guzzi 1100i</product_name>
+                <product_vendor>Highway 66 Mini Classics</product_vendor>
+                <units_sold>39</units_sold>
+                <total_sales>4128.54</total_sales>
+            </product>
+            <product>
+                <product_name>2003 Harley-Davidson Eagle Drag Bike</product_name>
+                <product_vendor>Red Start Diecast</product_vendor>
+                <units_sold>27</units_sold>
+                <total_sales>4653.72</total_sales>
+            </product>
+            <product>
+                <product_name>2002 Suzuki XREO</product_name>
+                <product_vendor>Unimax Art Galleries</product_vendor>
+                <units_sold>21</units_sold>
+                <total_sales>2562.0</total_sales>
+            </product>
+            <product>
+                <product_name>1936 Harley Davidson El Knucklehead</product_name>
+                <product_vendor>Welly Diecast Productions</product_vendor>
+                <units_sold>29</units_sold>
+                <total_sales>1528.3</total_sales>
+            </product>
+            <product>
+                <product_name>1997 BMW R 1100 S</product_name>
+                <product_vendor>Autoart Studio Design</product_vendor>
+                <units_sold>25</units_sold>
+                <total_sales>2423.0</total_sales>
+            </product>
+            <product>
+                <product_name>1960 BSA Gold Star DBD34</product_name>
+                <product_vendor>Highway 66 Mini Classics</product_vendor>
+                <units_sold>38</units_sold>
+                <total_sales>2778.56</total_sales>
+            </product>
+            <product>
+                <product_name>1997 BMW F650 ST</product_name>
+                <product_vendor>Exoto Designs</product_vendor>
+                <units_sold>20</units_sold>
+                <total_sales>1778.0</total_sales>
+            </product>
+        </product_set>
+    </product_list>
+    <staff_list>
+        <employee>
+            <first_name>George</first_name>
+            <last_name>Vanauf</last_name>
+            <office_city>NYC</office_city>
+            <active_customers>1</active_customers>
+            <total_sales>22292.62</total_sales>
+        </employee>
+    </staff_list>
+</year_end_summary>
